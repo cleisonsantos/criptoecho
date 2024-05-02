@@ -1,0 +1,34 @@
+# Arquivos de dependências
+node_modules
+
+# Arquivos de compilação
+/build
+/coverage
+
+# Arquivos de log e debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+debug.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos gerados pelo sistema
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
+
+# Cache de dependências do npm ou yarn
+.npm/
+.yarn/
